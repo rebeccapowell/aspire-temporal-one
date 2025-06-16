@@ -1,4 +1,4 @@
-# TemporalAspireDemo
+# aspire-temporal-one
 
 This repository showcases a minimal integration of [Temporal](https://temporal.io/) with [\.NET Aspire](https://learn.microsoft.com/dotnet/aspire/). The original application included encrypted payload storage and automatic key rotation via Key Vault and Redis. This trimmed version removes those pieces and focuses on the core workflow functionality.
 
